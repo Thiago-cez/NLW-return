@@ -1,6 +1,12 @@
 import { Camera } from "phosphor-react";
+import html2canvas from "html2canvas";
 
 export function Screenshotbutton() {
+  async function handleTakeScreenshot() {
+    const canvas = await html2canvas(document.querySelector("html")!);
+    const base64image = canvas.toDataURL("image/png");
+  }
+
   return (
     <button
       type="button"
