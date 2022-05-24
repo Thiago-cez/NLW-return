@@ -13,11 +13,7 @@ const transport = nodemailer.createTransport({
   },
 });
 
-const app = express();
-
-app.use(express.json());
-
-app.post("/feedbacks", async (req, res) => {
+routes.post("/feedbacks", async (req, res) => {
   const { type, comment, screenshot } = req.body;
 
   const feedback = await prisma.feedback.create({
