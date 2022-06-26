@@ -94,7 +94,7 @@ DEV
 
 # Clone o repositório
 
-$ git clone https://github.com/taohansens/NLW-return.git
+$ git clone https://github.com/Thiago-cez/NLW-return
 
 # Entre no repositório
 
