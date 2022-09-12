@@ -24,8 +24,11 @@
 # Gifs 🎥
 
 <h1>
-    <img title="Photo" src="foto1.PNG"/>
-    <img title="GIFT" src="Animacao.gif" />
+    <img title="GIFT" src="ignitelab-gif.gif" />
+    <img title="Photo" src="Captura1.GIF"/>
+    <img title="Photo" src="Captura2.GIF"/>
+    <img title="Photo" src="Captura3.GIF"/>
+    <img title="Photo" src="Captura4.GIF"/>
 </h1>
 
 # Features 
