@@ -37,6 +37,35 @@
 - [x] Reportar Problemas na Aplicação
 
 <br>
+
+    # Tecnologias
+    
+   <a href="#">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />        
+  </a>&nbsp;&nbsp;
+  <a href="#">
+    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />        
+  </a>&nbsp;&nbsp; 
+    <a href="#">
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />        
+  </a>&nbsp;&nbsp; 
+  <a href="#">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+     <a href="#">
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+    <a href="#">
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+<br>
+
     
 # Pré-requisitos
 Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
@@ -88,31 +117,4 @@ $ npm run dev
 ```
 ---
      
-# Tecnologias
-    
-   <a href="#">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  </a>&nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />        
-  </a>&nbsp;&nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />        
-  </a>&nbsp;&nbsp; 
-    <a href="#">
-    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />        
-  </a>&nbsp;&nbsp; 
-  <a href="#">
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-     <a href="#">
-    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-    <a href="#">
-    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />        
-  </a>&nbsp;&nbsp;
-<br>
 
