@@ -45,9 +45,7 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
   <a href="https://nodejs.org/en/">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />        
   </a>&nbsp;&nbsp;
-  <a href="https://firebase.google.com/">
-    <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />        
-  </a>&nbsp;&nbsp;  
+   
 
 ---
   <br>
@@ -55,17 +53,33 @@ Você vai precisar ter instalado na sua maquina as seguintes ferramentas:
 # Rodando-a-Aplicação    
     
 ```bash
-    # Clone o Repositório
-    git clone https://github.com/Thiago-cez/Aplicativo-Cadastro.git
-    
-    # Entre na Pasta:
-    cd Aplicativo-Cadastro
-    
-    # Instale as Dependencias:
-    npm install
-    
-    # Rodar a Aplicação:
-    npm run dev
+    # Clone o repositório
+
+$ git clone https://github.com/Thiago-cez/NLW-return
+
+# Entre no repositório
+
+$ cd NLW-return
+
+# Selecione um dos diretórios
+
+$ cd web
+
+$ cd mobile
+
+$ cd server
+
+# Variáveis .ENV (Configuração Inicial)
+
+$ DATABASE_URL="file:./dev.db"
+
+# Instale as dependências
+
+$ npm install
+
+# Execute a aplicação
+
+$ npm run dev
     
     # o servidor iniciará na porta: 3000 - acesse <http://localhost:3000>
 ```
