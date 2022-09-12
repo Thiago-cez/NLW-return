@@ -105,5 +105,11 @@ $ npm run dev
   <a href="#">
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />        
   </a>&nbsp;&nbsp;
+     <a href="#">
+    <img src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+    <a href="#">
+    <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />        
+  </a>&nbsp;&nbsp;
 <br>
 
